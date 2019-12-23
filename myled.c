@@ -29,7 +29,7 @@
 MODULE_AUTHOR("Nguyen Anh Quan");
 MODULE_DESCRIPTION("LED driver for Raspberry Pi 3B");
 MODULE_LICENSE("GPL");
-MODULE_VERSION("0.1");
+MODULE_VERSION("0.2");
 
 static dev_t dev;
 static struct cdev cdv;
