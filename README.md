@@ -3,7 +3,7 @@
 ## Description
 A small project from Robot System Lecture  
 This repository provide Raspberry Pi's device driver
-for blinking LEDs to cover a few music notes of [Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)  
+for blinking LEDs to cover a few music notes of Marble Machine  
 
 ## Demo  
 [LED cover of Marble Machine](https://youtu.be/cNQ4pHiICIc)
