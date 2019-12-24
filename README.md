@@ -36,4 +36,4 @@ to LEDs in order from left to right
  ```
  
  ## License
- This repository is licensed under the GPLv3 license, see [LICENSE](.)
+ This repository is licensed under the GPLv3 license, see [LICENSE](./COPYING)
